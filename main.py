@@ -4,10 +4,10 @@ import pygame
 import pygame_menu
 from pygame import mixer
 
-#initializes the game using pygame
+
 pygame.init()
 
-#screen size
+
 screen = pygame.display.set_mode((800, 600))
 
 #background image and menu bar
